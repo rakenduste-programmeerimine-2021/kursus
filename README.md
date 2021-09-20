@@ -6,7 +6,7 @@ Kursuse WIKI: https://github.com/rakenduste-programmeerimine-2021/kursus/wiki
 
 Discord: https://discord.gg/V7UG6tqs
 
-Link: https://meet.google.com/hdv-nhfs-vns
+Link: https://meet.google.com/brf-ecmf-ctf
 
 Loengute salvestused: https://drive.google.com/drive/folders/1jDNBE4VNYK9d1D10hATTZZH93ryxC7ME?usp=sharing
 
