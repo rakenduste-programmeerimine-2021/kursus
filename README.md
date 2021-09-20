@@ -8,6 +8,8 @@ Discord: https://discord.gg/V7UG6tqs
 
 Link: https://meet.google.com/brf-ecmf-ctf
 
+Mihkel Github: https://github.com/mihkelva/Rakenduste-programmeerimine-2021
+
 Loengute salvestused: https://drive.google.com/drive/folders/1jDNBE4VNYK9d1D10hATTZZH93ryxC7ME?usp=sharing
 
 Koduste tööde jaoks repo link e-mailile: mihvah@tlu.ee / raimo.pregel@tlu.ee
