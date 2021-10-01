@@ -1,12 +1,19 @@
 # IFI6229.DT Rakenduste programmeerimise kursus
 
+### Google Meets:
+
+- Mihkli (esmaspäeviti): https://meet.google.com/brf-ecmf-ctf
+
+- Raimo (reedeti): https://meet.google.com/pai-ziwn-dmq
+
+### Muu info: 
+
+
 Ainekaart: https://shorturl.at/akK07
 
 Kursuse WIKI: https://github.com/rakenduste-programmeerimine-2021/kursus/wiki
 
 Discord: https://discord.gg/V7UG6tqs
-
-Link: https://meet.google.com/brf-ecmf-ctf
 
 Mihkel Github: https://github.com/mihkelva/Rakenduste-programmeerimine-2021
 
