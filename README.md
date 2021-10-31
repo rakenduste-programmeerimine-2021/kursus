@@ -20,3 +20,5 @@ Loengute salvestused: https://drive.google.com/drive/folders/1jDNBE4VNYK9d1D10hA
 Koduste tööde jaoks repo link e-mailile: mihvah@tlu.ee / raimo.pregel@tlu.ee
 
 Kodused tööd: https://github.com/rakenduste-programmeerimine-2021/kursus/wiki/Kodut%C3%B6%C3%B6d
+
+Koduste tööde kontroll: https://docs.google.com/spreadsheets/d/171kF34T1gnhsIz12kXfEQPTIg_POtsU2FIPfUFGVYpY/edit?usp=sharing
