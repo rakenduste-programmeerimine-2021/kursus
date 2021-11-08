@@ -42,6 +42,8 @@ Alati tuleb koodi commitida main branchi läbi pull requestide ehk otse main bra
 4. Teie projektikaaslane peab vastu võtma teie PR-i (ise vastu ei võta) ja soovitavalt ```Rebase and merge```. [Rohkem infot siit](https://rietta.com/blog/github-merge-types/)
 5. Võimalikud konfliktid on vaja ka lahendada, et mis kood jääb peale. 
 
+‼️ Code review teistelt võib teha ka pärast PR vastu võtmist ja muudatusi saab ka siis hiljem järgi teha. Ehk enda projekti väliselt review saamisel ei pea ootama jääma.
+
 ### Tähtsad kuupäevad
 
 **19.11.21** — Vahekokkuvõte, kõik projektid esitavad enda tehtud töö esitamine **(kohustuslik)** ja pärast seda aktiivne arendus **(vabatahtlik sellel ajal)**.
