@@ -31,6 +31,17 @@ Projekti on ideaalis vaja teha kahekesi, erandkorras saab teha ka üksinda. Sell
 9. Testidega on tarvis **80%** projektist katta ehk kui nt Reactis loote komponendid, siis 80% komponentidest on vaja katta testidega. Võivad olla lihtsad testid, aga peavad eksisteerima. 
 10. Peab osalema vahekokkuvõtetes ja esitada 2 korda enda projekti tunnis teiste ees (**19.11** ja **03.12**).
 
+
+## Workflow
+
+Alati tuleb koodi commitida main branchi läbi pull requestide ehk otse main branchi me ei commiti. 
+
+1. Loote main branchi põhjal uue branchi
+2. Teete oma muudatused ainult sinna brachi, peamine töö toimub seal
+3. Kui viimased muudatused valmis, luua ```Pull request``` (kui see lahendab mingeid ticketeid, kirjutada ka ```closes #number```)
+4. Teie projektikaaslane peab vastu võtma teie PR-i (ise vastu ei võta) ja soovitavalt ```Rebase and merge```. [Rohkem infot siit](https://rietta.com/blog/github-merge-types/)
+5. Võimalikud konfliktid on vaja ka lahendada, et mis kood jääb peale. 
+
 ### Tähtsad kuupäevad
 
 **19.11.21** — Vahekokkuvõte, kõik projektid esitavad enda tehtud töö esitamine **(kohustuslik)** ja pärast seda aktiivne arendus **(vabatahtlik sellel ajal)**.
