@@ -25,7 +25,7 @@ Projekti on ideaalis vaja teha kahekesi, erandkorras saab teha ka üksinda. Sell
 3. On vaja luua low-fidelity wireframe projekti jaoks [näide](https://images.ctfassets.net/qop92tnevinq/0LwOZ4G6nxFy7zp62aRqg/a3e19a8955b3a2ef97f3ddf3a25d0b45/low-fidelity-wireframes-web.png?fm=webp&q=80). Võite teha käsitsi ka, siis tuleb lihtsalt pildid teha ja pärast enda repositooriumis panna `/wireframes` kausta.
 4. Kui backendina kasutada Javat, siis tuleb implementeerida ka Everypay makselahendus nii backendis kui frontendis (backendi Java näide on saadaval Githubis enne projekti alustamist).
 5. Seejärel saate hakata kirja panema soovitud funktsionaalsuseid ning saate vaikselt vastavalt nendele hakata looma issuesid.
-6. Pärast issuede paika panemist planeerite 4 sprinti (algab esmaspäevaga ja lõpeb järgmise esmaspäevaga, **08.11-15.11**, **15.11-22.11**, **22.11-29.11**, **29.11-06.12**). Ehk luua vastavad *milestone*-d sprintidele. Seejärel on aega kuni **17.12.2021** ja põhieksamil on enda projekti esitamine. Järeleksam **21.01.2022**.
+6. Pärast issuede paika panemist planeerite 4 sprinti (algab esmaspäevaga ja lõpeb järgmise esmaspäevaga, **15.11-22.11**, **22.11-29.11**, **29.11-06.12**, **06.12-13.12**). Ehk luua vastavad *milestone*-d sprintidele. Seejärel on aega kuni **17.12.2021** ja põhieksamil on enda projekti esitamine. Järeleksam **21.01.2022**.
 7. Iga sprindi jooksul peab tegema enda projekti discordi kanalis vähemalt 2 standupi kirja panekut (mida eelmine kord tegid, mida hakkad täna tegema ja mis takistused on). **See tähendab, et iga nädal on vaja teha vähemalt 2 standupi.**
 8. Teha vähemalt **5 code review**-i kellegi teise projektile. Kui 5 reviewd on täis, siis saata kõikide reviewde lingid korraga mõlemale: mihvah@tlu.ee / raimo.pregel@tlu.ee
 9. Testidega on tarvis **80%** projektist katta ehk kui nt Reactis loote komponendid, siis 80% komponentidest on vaja katta testidega. Võivad olla lihtsad testid, aga peavad eksisteerima. 
@@ -44,13 +44,15 @@ Alati tuleb koodi commitida main branchi läbi pull requestide ehk otse main bra
 
 ‼️ Code review teistelt võib teha ka pärast PR vastu võtmist ja muudatusi saab ka siis hiljem järgi teha. Ehk enda projekti väliselt review saamisel ei pea ootama jääma.
 
+‼️ Andke teada enda projektinimelises kanalis Discordis, kui basic setup tehtud, siis saab ```branch protectioni``` peale panna, et kõik see ära ei ununeks 🙂
+
 ### Tähtsad kuupäevad
 
-**19.11.21** — Vahekokkuvõte, kõik projektid esitavad enda tehtud töö esitamine **(kohustuslik)** ja pärast seda aktiivne arendus **(vabatahtlik sellel ajal)**.
+**19.11.21** — Aktiivne arendus tunni ajal, saame olla ka ise abiks video vahendusel **(vabatahtlik)**.
 
-**22.11.21** — Aktiivne arendus tunni ajal, saame olla ka ise abiks video vahendusel **(vabatahtlik sellel ajal)**.
+**22.11.21** — Vahekokkuvõte, kõikide projektide senise tehtud töö esitamine **(kohustuslik)** ja pärast seda aktiivne arendus **(vabatahtlik)**.
 
-**03.12.21** — Vahekokkuvõte, senise tehtud töö esitamine **(kohustuslik)** ja pärast seda aktiivne arendus **(vabatahtlik sellel ajal)**.
+**03.12.21** — Vahekokkuvõte, kõikide projektide senise tehtud töö esitamine **(kohustuslik)** ja pärast seda aktiivne arendus **(vabatahtlik)**.
 
 **06.12.21** — Viimased tagasiside küsimise võimalused enne **17.12.2021** eksamit **(vabatahtlik)**.
 
