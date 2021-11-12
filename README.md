@@ -1,23 +1,5 @@
 # IFI6229.DT Rakenduste programmeerimise kursus
 
-#### Selleks, et jätkata aine läbimisega ja mitte läbi kukkuda:
-‼️ **08.11 kuupäevaks peavad olema kõik kodutööd õigeaegselt esitatud.** ‼️
-
-🔥 Mõjuva põhjusega on võimalik ka kuni 07.11 esitada (k.a.). Selleks, et saaks 08.11 kontrollida ja pärast seda kuupäeva enam kodutöödega ei tegele. 🔥
-
-#### Ettevalmistumine aine praktilisemaks osaks ehk 08.11 projekti alustamiseks
-
-Projekt nõuab:
-**Projekt eesmärgina on vajalik, et lihtsustaks kellegi elu. Ideaalis võiks projektil olla ka klient (tuttav, vanemad, sõbrad), kuid ise võite ka olla kliendid kui kedagi tõesti ei leia. Tähtis on see, et projektil oleks mingisugune väärtus.**
-
-Mõelge välja ka projektile mingisugune sobiv nimi, muidu genereerime naljaka nime 😄
-
-1. Frontendina kasutada Reacti, backendina kas Java või JS. Andmebaasina kas Postgre või MongoDB.
-2. Nagu eespool mainitud - peab olema kasutuses andmebaas, kindlasti ka registreerimine/sisse logimine (Javas Smart-ID implementeerimine Github näite põhjal, mis on saadaval enne projekti alustamist).
-3. Lisaks GET/POST/PUT/DELETE endpointi kasutuses võimalikult mitmes kohas veebirakenduses.
-
-Projekti on ideaalis vaja teha kahekesi, erandkorras saab teha ka üksinda. Sellest tuleb kindlasti meid teavitada ja me saame otsustada ehk leidke inimene, kellega tahaksite seda projekti koos teha.
-
 #### Selleks, et läbida projekti osa ainest:
 
 1. On vaja esitada enda projekti meile aktsepteerimiseks **08.11** päeva lõpuni kuni **23.59**. Pärast positiivse vastuse saamist loome repositooriumi rakenduste-programmeerimine-2021 alla teil on vaja eraldi #projekt kanalil  teada anda kellega projekti teed, mis projekti nimi on, mis on eesmärk teistele tutvustamiseks.
