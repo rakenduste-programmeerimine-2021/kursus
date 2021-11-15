@@ -11,7 +11,7 @@
 7. Iga sprindi jooksul peab tegema enda projekti discordi kanalis vähemalt 2 standupi kirja panekut (mida eelmine kord tegid, mida hakkad täna tegema ja mis takistused on). **See tähendab, et iga nädal on vaja teha vähemalt 2 standupi.**
 8. Teha vähemalt **5 code review**-i kellegi teise projektile. Kui 5 reviewd on täis, siis saata kõikide reviewde lingid korraga mõlemale: mihvah@tlu.ee / raimo.pregel@tlu.ee
 9. Testidega on tarvis **80%** projektist katta ehk kui nt Reactis loote komponendid, siis 80% komponentidest on vaja katta testidega. Võivad olla lihtsad testid, aga peavad eksisteerima. 
-10. Peab osalema vahekokkuvõtetes ja esitada 2 korda enda projekti tunnis teiste ees (**19.11** ja **03.12**).
+10. Peab osalema vahekokkuvõtetes ja esitada 2 korda enda projekti tunnis teiste ees (**22.11** ja **03.12**).
 
 
 ## Workflow
